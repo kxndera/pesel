@@ -1,0 +1,11 @@
+C:\Users\kxnde\source\repos\pesel\pesel\bin\Debug\pesel.exe.config
+C:\Users\kxnde\source\repos\pesel\pesel\bin\Debug\pesel.exe
+C:\Users\kxnde\source\repos\pesel\pesel\bin\Debug\pesel.pdb
+C:\Users\kxnde\source\repos\pesel\pesel\obj\Debug\pesel.csproj.AssemblyReference.cache
+C:\Users\kxnde\source\repos\pesel\pesel\obj\Debug\pesel.csproj.SuggestedBindingRedirects.cache
+C:\Users\kxnde\source\repos\pesel\pesel\obj\Debug\pesel.Form1.resources
+C:\Users\kxnde\source\repos\pesel\pesel\obj\Debug\pesel.Properties.Resources.resources
+C:\Users\kxnde\source\repos\pesel\pesel\obj\Debug\pesel.csproj.GenerateResource.cache
+C:\Users\kxnde\source\repos\pesel\pesel\obj\Debug\pesel.csproj.CoreCompileInputs.cache
+C:\Users\kxnde\source\repos\pesel\pesel\obj\Debug\pesel.exe
+C:\Users\kxnde\source\repos\pesel\pesel\obj\Debug\pesel.pdb
